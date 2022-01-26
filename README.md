@@ -8,7 +8,7 @@
 
 - 👯 Follow me for bug bounty update **[Twitter](https://twitter.com/Sm4rty_)**
 
-- 📓 All of my write-up available at **[My Write-up](https://sm4rty.medium.com/)**
+- 📓 All of my Blogs available at **[My Blogs](https://sm4rty.medium.com/)**
 
 - 📫 How to reach me **samratgupta242@outlook.com**
 
