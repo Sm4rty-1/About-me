@@ -27,7 +27,20 @@
 
 </p>
 
+## :pushpin: Current Challenge
 
+[Learn101](https://github.com/dn0m1n8tor/learn365) is a challenge to keep the learning spirit going on and challenge myself to learn something daily for 101 days  be anything from infosec to general life.
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=dn0m1n8tor&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+ -->
+ 
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Sm4rty-1&show_icons=true&theme=dark" width = 400 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Sm4rty-1&theme=dark&hide_border=true" width = 400 />
+    </p>
+    
 <br/>
 
 ## Connect with me:
@@ -36,6 +49,5 @@
 <a href = "https://www.linkedin.com/in/sm4rty/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sm4rty_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sm4rty/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 
 
