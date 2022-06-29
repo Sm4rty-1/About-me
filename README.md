@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently learning **BugBounty and Stuffs**
+- 👨‍💻 I’m currently learning **Web3 and SmartContract Hacking**
 
 - 👯 Follow me for bug bounty update **[Twitter](https://twitter.com/Sm4rty_)**
 
@@ -27,7 +27,7 @@
 
 </p>
 
-## :pushpin: Current Challenge
+## :pushpin: Completed Challenge
 
 [Learn101](https://github.com/Sm4rty-1/learn101) is a challenge to keep the learning spirit going on and challenge myself to learn something daily for 101 days  be anything from infosec to general life.
 
