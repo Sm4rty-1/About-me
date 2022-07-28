@@ -49,5 +49,5 @@
 <a href = "https://www.linkedin.com/in/sm4rty/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sm4rty_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sm4rty/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://sm4rty.hashnode.dev/"><img src="https://camo.githubusercontent.com/c8908719044365963ab6efff0f3e207fc97d0d2f0a9075f686065cf74d4e9527/68747470733a2f2f63646e2e73766172756e2e6465762f636f6d6d6f6e2f686173686e6f64652f69636f6e2e706e67"/></a>
+<a href = "https://sm4rty.hashnode.dev/"><img src="https://img.icons8.com/color/452/hashnode.png"/></a>
 
