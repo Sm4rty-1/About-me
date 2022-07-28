@@ -49,5 +49,5 @@
 <a href = "https://www.linkedin.com/in/sm4rty/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sm4rty_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sm4rty/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://sm4rty.hashnode.dev/"><img src="https://img.icons8.com/color/452/hashnode.png"/></a>
+<a href = "https://sm4rty.hashnode.dev/"><img src="https://img.icons8.com/color/452/hashnode.png" height=48 width=48/></a>
 
