@@ -36,10 +36,12 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=dn0m1n8tor&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
  -->
  
- <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Sm4rty-1&show_icons=true&theme=dark" width = 400 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Sm4rty-1&theme=dark&hide_border=true" width = 400 />
-    </p>
+<center>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sm4rty-1&theme=solarized_dark" width = 720 />
+  <div class="row">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Sm4rty-1&show_icons=true&theme=dark" width = 350 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Sm4rty-1&theme=dark&hide_border=true" width = 350 />
+</center>
     
 <br/>
 
