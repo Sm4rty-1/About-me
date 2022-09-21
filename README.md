@@ -9,12 +9,14 @@
 - 👯 Follow me for bug bounty update **[Twitter](https://twitter.com/Sm4rty_)**
 
 - 📓 All of my Blogs available at **[My Blogs](https://sm4rty.medium.com/)**
+    
+- 🚀 Warden @Code4rena (**[My Code4rena Notes](https://www.notion.so/sm4rty1/Code4rena-QA-and-GAS-Notes-75d23f57e35340e1bc6f1c7eb80fbc28)**)
 
 - 📫 How to reach me **samratgupta242@outlook.com**
 
 
 
-## 🚀 Languages and Tools:
+## 📓 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
