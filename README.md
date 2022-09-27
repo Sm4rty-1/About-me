@@ -19,12 +19,12 @@
 ## 📓 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/plasticine/50/000000/bash.png/"></a>
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/fa314a/javascript.png"/> </a>
-    <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/48/fa314a/c-plus-plus-logo.png"/> </a>
-    <a href="https://portswigger.net/burp" target="_blank"> <img src="https://img.icons8.com/ios-filled/48/fa314a/burp-suite.png"/></a>
+    <a href="https://www.linux.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>    
+    <a href="https://soliditylang.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/ios-filled/344/solidity.png"/> </a>
+    <a href="https://https://ethereum.org/en/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/344/external-ethereum-cryptocurrency-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/> </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/plasticine/50/000000/bash.png/"></a>
+    <a href="https://www.javascript.com/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/fa314a/javascript.png"/> </a>
+    <a href="https://portswigger.net/burp" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/ios-filled/48/fa314a/burp-suite.png"/></a>
     <a href="https://sqlmap.org/" target="_blank"> <img width="50" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png"/></a>
 
 </p>
