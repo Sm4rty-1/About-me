@@ -6,7 +6,10 @@
 
 - 👨‍💻 I’m currently learning **Web3 and SmartContract Hacking**
 
-- 👯 Follow me for bug bounty update **[Twitter](https://twitter.com/Sm4rty_)**
+- 👯 Follow me for bug bounty update **[Twitter](https://twitter.com/Sm4rty_)** 
+
+ - <p align="left"> <a href="https://twitter.com/Sm4rty_" target="blank"><img src="https://img.shields.io/twitter/follow/Sm4rty_?label=Follow&style=social" alt="Sm4rty_" /></a> </p>
+
 
 - 📓 All of my Blogs available at **[My Blogs](https://sm4rty.medium.com/)**
     
