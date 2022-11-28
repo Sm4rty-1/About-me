@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sm4rty aka Samrat Gupta </h1>
 <h2 align="center">Smart contract Auditor and Security Researcher @QuillAudits</h2>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=;Part-time+Bugbounty+Hunter+and+Technical+Content+Writer;Intrested+in+Smart+contract+Security+and+stuffs;Open+Source+Contributor">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=;Part-time+Bugbounty+Hunter+and+Content+Writer;Intrested+in+Smart+contract+Security+and+stuffs;Open+Source+Contributor">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sm4rty-1&label=Profile%20views&color=1A77B1&style=flat" alt="Sm4rty-1" /> </p>
