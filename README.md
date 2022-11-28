@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sm4rty aka Samrat Gupta </h1>
 <h2 align="center">Smart contract Auditor and Security Researcher @QuillAudits</h2>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=Intrested in Smart contract Security and stuffs;">
-</div >
+<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=;Part-time+Bugbounty+Hunter+and+Technical+Content+Writer;Intrested+in+Smart+contract+Security+and+stuffs;Open+Source+Contributor">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sm4rty-1&label=Profile%20views&color=1A77B1&style=flat" alt="Sm4rty-1" /> </p>
 
@@ -37,7 +37,6 @@
 </br>
 
 ---
-</br>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" height=30/> Hacking Experiences:
 <a href="https://tryhackme.com/p/Sm4rty" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Sm4rty.png" alt="TryHackMe" height=60 width=250/>
@@ -45,6 +44,8 @@
 
 <br/>
 
+---    
+    
 ## <img src="./assets/tools.jpg" height=20/> Languages and Tools
 <p align="left"> 
     <a href="https://www.linux.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>   
@@ -68,7 +69,7 @@
 
 ---
 
-## <img src="./assets/github.png" height=25/> ⚙️ GitHub Analytics
+## <img src="./assets/github.png" height=25/> GitHub Analytics
 
 
 <p align="center">
