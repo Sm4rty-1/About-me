@@ -1,60 +1,82 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sm4rty aka Samrat Gupta<h1>
-<h3 align="center">I'm a Security Researcher from India.</h3>
-<a href="#"><img width="480" height="300px" align="right" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/code.gif"/></a>
+<h1 align="center">Hi, I'm Sm4rty aka Samrat Gupta </h1>
+<h2 align="center">Smart contract Auditor and Security Researcher @QuillAudits</h2>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=Intrested in Smart contract Security and stuffs;">
+</div >
 
-## 🙋‍♂️ About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sm4rty-1&label=Profile%20views&color=1A77B1&style=flat" alt="Sm4rty-1" /> </p>
 
-- 👨‍💻 I’m currently learning **Web3 and SmartContract Hacking**
+<img src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/code.gif" width=400 align=right />
 
-- 👯 Follow me for bug bounty update **[Twitter](https://twitter.com/Sm4rty_)** 
+<p align="left"> <a href="https://www.linkedin.com/in/Sm4rty/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Samrat Gupta" width="150" height="30" /></a> </p>
 
- - <p align="left"> <a href="https://twitter.com/Sm4rty_" target="blank"><img src="https://img.shields.io/twitter/follow/Sm4rty_?label=Follow&style=social" alt="Sm4rty_" /></a> </p>
-
-
-- 📓 All of my Blogs available at **[My Blogs](https://sm4rty.medium.com/)**
-    
-- 🚀 Warden @Code4rena (**[My Code4rena Notes](https://www.notion.so/sm4rty1/Code4rena-QA-and-GAS-Notes-75d23f57e35340e1bc6f1c7eb80fbc28)**)
-
-- 📫 How to reach me **samratgupta242@outlook.com**
+<p align="left"> <a href="https://twitter.com/Sm4rty_" target="blank"><img src="https://img.shields.io/twitter/follow/Sm4rty_?label=Follow&style=social" alt="Sm4rty_" /></a> </p>
 
 
+# 💫 About Me:
+🔭 I’m currently learning **web3 security and smart contract hacking**
 
-## 📓 Languages and Tools:
+📓 All of my Blogs available at **[My Blogs](https://sm4rty.medium.com/)**
 
+📫 How to reach me **[samratgupta242@outlook.com](mailto:samratgupta242@outlook.com)**
+
+👯 Follow me for bug bounty update **[Twitter](https://twitter.com/Sm4rty_)** 
+
+
+
+## <img src="./assets/connect.png" height=20/> Connect with me
+<p align="left">
+<a href="https://twitter.com/Sm4rty_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sm4rty-1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Sm4rty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sm4rty-1" height="30" width="40" /></a>
+<a href="https://instagram.com/Sm4rty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sm4rty-1" height="30" width="40" /></a>
+<a href="https://Sm4rty.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+<a href="https://discord.com/users/932482961457152050" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="30" width="40" /></a>
+<a href="https://t.me/Samrat_QuillAudits" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" width="40" /></a>
+<a href="https://linktr.ee/samrat_quillaudits" target="blank"><img align="center" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height="30" width="26" /></a>
+
+</br>
+
+---
+</br>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" height=30/> Hacking Experiences:
+<a href="https://tryhackme.com/p/Sm4rty" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Sm4rty.png" alt="TryHackMe" height=60 width=250/>
+<a href="https://www.hackthebox.com/profile/570344" target="blank"><img align="center" src="https://www.hackthebox.eu/badge/image/570344" alt="Hackthebox" height=60 width=250/>
+
+<br/>
+
+## <img src="./assets/tools.jpg" height=20/> Languages and Tools
 <p align="left"> 
-    <a href="https://www.linux.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>    
-    <a href="https://soliditylang.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/ios-filled/344/solidity.png"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>   
+    <a href="https://soliditylang.org/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/nolan/512/solidity.png"/> </a>
     <a href="https://https://ethereum.org/en/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/344/external-ethereum-cryptocurrency-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/plasticine/50/000000/bash.png/"></a>
-    <a href="https://www.javascript.com/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/fa314a/javascript.png"/> </a>
     <a href="https://portswigger.net/burp" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/ios-filled/48/fa314a/burp-suite.png"/></a>
+    <a href="https://www.javascript.com/" target="_blank"> <img width="50" height="40px" src="https://img.icons8.com/color/48/fa314a/javascript.png"/> </a>
     <a href="https://sqlmap.org/" target="_blank"> <img width="50" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png"/></a>
+        
+ </p>
 
-</p>
+<br />
 
-## :pushpin: Completed Challenge
+---
+## 📌 Completed Challenge
 
 [Learn101](https://github.com/Sm4rty-1/learn101) is a challenge to keep the learning spirit going on and challenge myself to learn something daily for 101 days  be anything from infosec to general life.
 
-## ⚙️ &nbsp;GitHub Analytics
+<br />
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=dn0m1n8tor&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
- -->
- 
-<center>
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sm4rty-1&theme=solarized_dark" width = 720 />
-  <div class="row">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Sm4rty-1&show_icons=true&theme=dark" width = 350 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Sm4rty-1&theme=dark&hide_border=true" width = 350 />
-</center>
-    
-<br/>
+---
 
-## Connect with me:
-<p align="left">
+## <img src="./assets/github.png" height=25/> ⚙️ GitHub Analytics
 
-<a href = "https://www.linkedin.com/in/sm4rty/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sm4rty_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sm4rty/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://sm4rty.hashnode.dev/"><img src="https://img.icons8.com/color/452/hashnode.png" height=48 width=48/></a>
 
+<p align="center">
+<a href="https://github.com/Sm4rty-1">
+<br />
+<img  height="180em" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sm4rty-1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Sm4rty-1" />
+<img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sm4rty-1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Sm4rty-1" />
+<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=Sm4rty-1&theme=react-dark" />
+
+</a>
+</p>
