@@ -34,15 +34,11 @@
 <a href="https://t.me/Samrat_QuillAudits" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" width="40" /></a>
 <a href="https://linktr.ee/samrat_quillaudits" target="blank"><img align="center" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" height="30" width="26" /></a>
 
-</br>
-
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" height=30/> Hacking Experiences:
 <a href="https://tryhackme.com/p/Sm4rty" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Sm4rty.png" alt="TryHackMe" height=60 width=250/>
 <a href="https://www.hackthebox.com/profile/570344" target="blank"><img align="center" src="https://www.hackthebox.eu/badge/image/570344" alt="Hackthebox" height=60 width=250/>
-
-<br/>
 
 ---    
     
@@ -58,14 +54,18 @@
         
  </p>
 
-<br />
 
 ---
+    
 ## 📌 Completed Challenge
 
 [Learn101](https://github.com/Sm4rty-1/learn101) is a challenge to keep the learning spirit going on and challenge myself to learn something daily for 101 days  be anything from infosec to general life.
 
-<br />
+---
+## 📚 My Recent Blogs
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Sm4rty/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Sm4rty/6" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Sm4rty/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Sm4rty/1" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Sm4rty/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Sm4rty/0" alt="Recent Article 3"> 
 
 ---
 
