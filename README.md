@@ -54,20 +54,6 @@
         
  </p>
 
-
----
-    
-        
-## 🚀 Current Challenge
-
-[Audit-365](https://github.com/Sm4rty-1/Audit-365) is a challenge for me where I will be posting educational content related to Smart contract auditing and web3 security throughout the 365 days of the year starting from 1st January, 2023 to 31st December, 2023. 
-    
-   
-    
-## 📌 Completed Challenge
-
-[Learn101](https://github.com/Sm4rty-1/learn101) is a challenge to keep the learning spirit going on and challenge myself to learn something daily for 101 days  be anything from infosec to general life.
-
 ---
 ## 📚 My Recent Blogs
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Sm4rty/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Sm4rty/6" alt="Recent Article 1"> 
