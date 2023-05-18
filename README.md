@@ -14,7 +14,7 @@
 
 
 # 💫 About Me:
-🌐 Finde me at **[www.sm4rty.xyz](https://sm4rty.xyz)**
+🌐 Find me at **[www.sm4rty.xyz](https://sm4rty.xyz)**
 
 🔭 I’m currently learning **web3 security and smart contract hacking**
 
