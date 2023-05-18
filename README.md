@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sm4rty aka Samrat Gupta </h1>
-<h2 align="center">Smart contract Auditor and Security Researcher @QuillAudits</h2>
+<h2 align="center">Smart contract Auditor and Security Researcher </h2>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=;Part-time+Bugbounty+Hunter+and+Content+Writer;Intrested+in+Smart+contract+Security+and+stuffs;Open+Source+Contributor">
 </div>
@@ -14,6 +14,8 @@
 
 
 # 💫 About Me:
+🌐 Finde me at **[www.sm4rty.xyz](https://sm4rty.xyz)**
+
 🔭 I’m currently learning **web3 security and smart contract hacking**
 
 📓 All of my Blogs available at **[My Blogs](https://sm4rty.medium.com/)**
