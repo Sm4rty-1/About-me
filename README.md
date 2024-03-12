@@ -71,8 +71,6 @@
 <a href="https://github.com/Sm4rty-1">
 <br />
 <img  height="180em" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sm4rty-1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Sm4rty-1" />
-<img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sm4rty-1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Sm4rty-1" />
-<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=Sm4rty-1&theme=react-dark" />
 
 </a>
 </p>
